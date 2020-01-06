@@ -1,7 +1,7 @@
 # 性别对心理健康障碍的患病率及患病因素分析、与学校心理健康教育普及度分析
 
 ### 交互式数据可视化——数据故事
-- pages页面：
+- pages页面：http://nfunm085.gitee.io/interactive_final/
 - pythonanywhere的链接入口：http://xuyongshi.pythonanywhere.com/?
 - 合作成员：17网新谢颖 18网新许泳诗
 
